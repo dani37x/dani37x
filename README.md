@@ -21,6 +21,8 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dani37x&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dani37x/github-readme-stats#gh-dark-mode-only)
 </br>
 
+![](https://komarev.com/ghpvc/?dani37x&style=flat-square
+
 <h3> Contact </h3>
 
 - 📫 &nbsp; dksluzbowe9@gmail.com
