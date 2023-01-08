@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani37x&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dani37x's Github Stats">
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dani37x&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dani37x/github-readme-stats#gh-dark-mode-only)
 
 </br>
 
