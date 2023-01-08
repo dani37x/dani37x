@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Python Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&width=440&lines=Welcome+to+my+github!;I+am+Daniel;A+passionate+Python+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dani37x&label=Profile%20views&color=0e75b6&style=flat" alt="dani37x" /> </p>
 
@@ -20,5 +19,5 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dani37x&show_icons=true&locale=en&layout=compact" alt="dani37x" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani37x&show_icons=true&locale=en" alt="dani37x" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
