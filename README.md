@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Python and develop my projects
-- :construction_worker: &nbsp; Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
+- 👷  &nbsp; Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
 - 🎓 &nbsp; programming studies.
 - 💼 &nbsp; looking for Job as Python Developer
 
@@ -24,3 +24,4 @@
 
 <h3> Contact </h3>
 
+- 📫 &nbsp; dksluzbowe9@gmail.com
