@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python
+- 🔭 &nbsp; I’m currently learning Python and develop my projects
 - :construction_worker: &nbsp; Working on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
 - 🎓 &nbsp; programming studies.
 - 💼 &nbsp; looking for Job as Python Developer
