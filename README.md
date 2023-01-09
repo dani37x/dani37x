@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dani37x&label=Profile%20views&color=0e75b6&style=flat" alt="dani37x" /> </p>
 
-- 🔭 &nbsp; I learn Python and I develop my projects
+- 🔭 &nbsp; I learn Python and develop my projects
 - 👷  &nbsp; Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
 - 🎓 &nbsp; programming studies.
 - 💼 &nbsp; looking for Job as Python Developer
