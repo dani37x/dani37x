@@ -19,14 +19,4 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dani37x&label=Profile%20views&color=0e75b6&style=flat" alt="dani37x" /> </p>
