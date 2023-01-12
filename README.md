@@ -18,8 +18,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" /></p>
 <br>
 </br>
 
