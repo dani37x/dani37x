@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&width=440&lines=Welcome+to+my+github!;I+am+Daniel;A+passionate+Python+Developer)](https://git.io/typing-svg)
 
 
-- 🔭 &nbsp; I learn Python and develop my projects
-- 👷  &nbsp; Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
-- 🎓 &nbsp; programming studies.
-- 💼 &nbsp; looking for Job as Python Developer
-- 📫 How to reach me **dksluzbowe9@gmail.com**
-- 👯 project? **DM**
+- 🔭&nbsp;  I learn Python and develop my projects
+- 👷&nbsp;  Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
+- 🎓&nbsp;  programming studies.
+- 💼&nbsp;  looking for Job as Python Developer
+- 📫&nbsp;  How to reach me **dksluzbowe9@gmail.com**
+- 👯&nbsp;  project? **DM**
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
