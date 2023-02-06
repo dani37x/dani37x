@@ -3,10 +3,10 @@
 
 - 🔭&nbsp;  I learn Python and develop my projects
 - 👷&nbsp;  Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
-- 🎓&nbsp;  programming studies.
-- 💼&nbsp;  looking for Job as Python Developer
+- 🎓&nbsp;  Programming studies.
+- 💼&nbsp;  Looking for Job as Python Developer
 - 📫&nbsp;  How to reach me **dksluzbowe9@gmail.com**
-- 👯&nbsp;  project? **DM**
+- 👯&nbsp;  Project? **DM**
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
