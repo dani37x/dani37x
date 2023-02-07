@@ -9,6 +9,8 @@
 - 👯&nbsp;  Project? **DM**
 
 
+Github is my path, then I don't delete my repos.
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
