@@ -7,7 +7,7 @@ I was infected with IT in an IT middle school. Since childhood, I've loved puzzl
 ## What do I now?
 - 👷&nbsp;  Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
 - 🎓&nbsp;  Programming studies.
-- 💼&nbsp;  Looking for Job as Python
+- 💼&nbsp;  Looking for Job as Python Developer
 
 
 ## Languages and Tools
