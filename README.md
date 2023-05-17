@@ -2,7 +2,8 @@
 
 ## About me
 
-I was infected with IT in an IT middle school. Since childhood, I've loved puzzles and strategy games, programming combines both things. I can learn quickly and I love solving problems. My motivation is to be a better version of myself.
+My interest in information technology began during my time in middle school. It was during this time that I was first introduced to programming, and I quickly developed a passion for it. I have always enjoyed solving puzzles and playing strategy games, and I found that programming provided me with the opportunity to combine these interests. I am a quick learner and am always eager to take on new challenges. What motivates me most is the desire to continually improve myself, both as a programmer and as an individual.
+
 
 ## What do I now?
 - 👷&nbsp;  Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
