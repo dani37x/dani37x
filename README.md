@@ -19,8 +19,7 @@ I rely on Github for all of my coding projects, it's my preferred platform. This
 
 
 ## Contact
-- 📫&nbsp;  How to reach me **dksluzbowe9@gmail.com**
-- 👯&nbsp;  Project? **DM**
+**dksluzbowe9@gmail.com**
 
 ## Stats
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dani37x&show_icons=true&theme=algolia" alt="dani37x" />
