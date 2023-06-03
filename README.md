@@ -8,7 +8,6 @@ My interest in information technology began during my time in middle school. It 
 ## What do I now?
 - 👷&nbsp;  Currently I work on <a href="https://github.com/dani37x/E-lectro"> E-lectro project. </a>
 - 🎓&nbsp;  Programming studies.
-- 💼&nbsp;  Looking for Job as Python Developer
 - 👀&nbsp;  A brainstorming and I prepare new strategies and ideas for an upcoming project in the Django framework.
 
 ## Languages and Tools
